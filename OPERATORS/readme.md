@@ -46,7 +46,6 @@ where creditLimit between 70000 and 85000;
 ```
 
 Explanation:
-
 * Retrieves customers whose **credit limit is between 70,000 and 85,000**
 
 ---
