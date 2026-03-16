@@ -8,7 +8,6 @@ The purpose of this practice is to understand how databases and tables are creat
 # Topics Covered
 
 ## 1. Creating and Deleting a Database
-
 A database is a collection of related tables used to store structured data.
 
 Example:
