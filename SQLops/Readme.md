@@ -1,5 +1,4 @@
 # SQL Practice – Employees Database
-
 This repository contains my SQL practice queries using the **MySQL Employees Database**.
 The purpose of this repository is to practice and understand important SQL concepts used in real-world databases and technical interviews.
 
