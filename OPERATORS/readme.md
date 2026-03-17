@@ -4,7 +4,6 @@ This file contains SQL queries demonstrating the use of **logical operators** an
 These operators help retrieve specific data from tables based on conditions.
 
 ---
-
 # Topics Covered
 
 ## 1. AND Operator
