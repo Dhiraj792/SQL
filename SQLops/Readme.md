@@ -12,7 +12,6 @@ The purpose of this repository is to practice and understand important SQL conce
 * Selecting all data from a table
 
 Example:
-
 ```sql
 create database employees;
 use employees;
