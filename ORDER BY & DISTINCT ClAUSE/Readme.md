@@ -31,7 +31,6 @@ select distinct state, city
 from customers 
 where state is not null;
 ```
-
 Explanation:
 
 * `DISTINCT` returns only **unique values**
