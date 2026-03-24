@@ -7,7 +7,6 @@ These operators help retrieve specific data from tables based on conditions.
 # Topics Covered
 
 ## 1. AND Operator
-
 The `AND` operator is used to filter records when **multiple conditions must be true**.
 
 Example:
