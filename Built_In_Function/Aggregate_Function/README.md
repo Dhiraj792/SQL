@@ -16,7 +16,6 @@ Example:
 ```sql
 select lower('ORACLE');
 ```
-
 Using table data:
 
 ```sql
