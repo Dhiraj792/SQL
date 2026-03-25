@@ -186,13 +186,3 @@ After completing this practice, I can:
 * LEFT JOIN → All left + matched right
 * USING() → Used when column names are same
 
----
-
-⭐ Next Topics to Learn:
-
-* RIGHT JOIN
-* FULL OUTER JOIN (via UNION)
-* SELF JOIN
-* Subqueries
-* Window Functions
-
