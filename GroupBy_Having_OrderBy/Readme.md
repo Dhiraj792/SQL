@@ -3,7 +3,6 @@
 This file contains SQL queries demonstrating the use of **GROUP BY**, **aggregate functions**, and the **HAVING clause** using a sample **HR Database**.
 
 These concepts are very important for **data analysis and interview preparation**.
-
 ---
 
 # Topics Covered
