@@ -3,7 +3,6 @@ This repository contains my SQL practice queries using the **MySQL Employees Dat
 The purpose of this repository is to practice and understand important SQL concepts used in real-world databases and technical interviews.
 
 ## Topics Covered
-
 ### 1. Database and Table Operations
 
 * Creating a database
