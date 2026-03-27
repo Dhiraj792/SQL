@@ -6,5 +6,6 @@ select
 from 
    customers
 where 
-   country='USA' and
+   country='USA' 
+    and
     state='CA';
