@@ -1,4 +1,4 @@
--- DISTINCT clause- To remove duplicate values 
+-- DISTINCT clause- To fetch unique values from table 
 -- DISTINCT clause- To remove duplicates values 
 USE classicmodels;
 select * from employees;
