@@ -166,21 +166,163 @@ Tables used:
 
 ---
 
+# SQL Practice – Advanced JOINS (RIGHT JOIN, CROSS JOIN, FULL JOIN)
+
+This file continues the **JOIN concepts** in SQL, covering:
+
+* RIGHT JOIN
+* CROSS JOIN
+* FULL OUTER JOIN (concept)
+
+These joins are important for **data analysis and interviews**.
+
+---
+
+# 1. RIGHT JOIN
+
+The `RIGHT JOIN` returns:
+
+* All records from the **right table**
+* Matched records from the left table
+* If no match → returns `NULL` for left table
+
+---
+
+## Example 1: Basic RIGHT JOIN
+
+```sql
+use d;
+
+select * 
+from t1 
+right join t2 
+on t1.num = t2.num;
+```
+
+### Explanation:
+
+* Shows all values from `t2`
+* If no matching value in `t1`, result will contain `NULL`
+
+---
+
+## Example 2: RIGHT JOIN (ClassicModels)
+
+```sql
+use classicmodels;
+
+select employeeNumber, customerName, customerNumber
+from customers
+right join employees 
+on salesRepEmployeeNumber = employeeNumber
+where customerNumber is null;
+```
+
+### Explanation:
+
+* Returns employees who **do not have any customers assigned**
+* `customerNumber IS NULL` filters unmatched records
+
+---
+
+# 2. CROSS JOIN
+
+The `CROSS JOIN` returns the **Cartesian product** of two tables.
+
+---
+
+## Example:
+
+```sql
+use d;
+
+select * 
+from t1 
+cross join t2;
+```
+
+### Explanation:
+
+* Every row of `t1` is combined with every row of `t2`
+* If `t1` has 4 rows and `t2` has 4 rows → result = 16 rows
+
+---
+
+# 3. FULL OUTER JOIN
+
+The `FULL JOIN` returns:
+
+* All records from **both tables**
+* Matched records where possible
+* Unmatched values filled with `NULL`
+
+---
+
+## ⚠️ Important Note
+
+MySQL **does NOT support FULL OUTER JOIN directly**.
+---
+
+# Summary of JOIN Types
+
+| JOIN Type  | Description                  |
+| ---------- | ---------------------------- |
+| INNER JOIN | Only matched records         |
+| LEFT JOIN  | All left + matched right     |
+| RIGHT JOIN | All right + matched left     |
+| CROSS JOIN | All combinations             |
+| FULL JOIN  | All records from both tables |
+
+---
+
+# Concepts Practiced
+
+* RIGHT JOIN usage
+* Finding unmatched records
+* CROSS JOIN (Cartesian product)
+* FULL JOIN concept using UNION
+* Filtering NULL values
+
+---
+
+# Database Used
+
+* `d` (custom database)
+* `classicmodels`
+
+Tables used:
+
+* `t1`, `t2`
+* `employees`
+* `customers`
+
+---
+
+# Tools Used
+
+* MySQL Workbench / Command Line
+* GitHub
+
+---
+
 # Learning Outcome
 
 After completing this practice, I can:
 
-* Combine data from multiple tables
-* Understand relationships between tables
-* Use INNER JOIN for matching data
-* Use LEFT JOIN for complete data retrieval
-* Handle NULL values in joins
+* Use RIGHT JOIN to retrieve all records from right table
+* Identify unmatched records using NULL conditions
+* Understand CROSS JOIN behavior
+* Simulate FULL OUTER JOIN in MySQL
+* Work with multi-table queries efficiently
 
 ---
 
-# Important Notes
+⭐ Next Topics to Learn:
 
-* INNER JOIN → Only matched records
-* LEFT JOIN → All left + matched right
-* USING() → Used when column names are same
+* SELF JOIN
+* Subqueries
+* Window Functions
+* Views
+* Indexing
+
 
