@@ -238,5 +238,4 @@ After completing this practice, I can:
 * Indexing
 * Stored Procedures
 * Triggers
-* Window Functions
 
