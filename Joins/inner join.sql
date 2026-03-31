@@ -17,17 +17,15 @@ where num=12;
 use hrdatabase;
 select * from employees inner join departments on employees.department_id=departments.department_id; 
 use classicmodels;
-select productcode,productname,
-textdescription
+select productcode,productname,textdescription
 from 
-products
+      products
 inner join productlines
 on products.productline=productlines.productline;
 -- with the help of using 
-select productcode,productname,
-textdescription
+select productcode,productname,textdescription
 from 
-products
+      products
 inner join productlines
 using(productline);
 
