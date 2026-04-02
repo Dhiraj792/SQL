@@ -13,7 +13,6 @@ Example:
 create database D;
 drop database D;
 ```
-
 Explanation:
 
 * `CREATE DATABASE` → Creates a new database.
@@ -321,6 +320,3 @@ This practice helps to understand:
 * JOIN Operations
 * GROUP BY
 * HAVING
-* Subqueries
-* Indexing
-* Views
