@@ -230,6 +230,4 @@ After completing this practice, I can:
 
 * JOIN operations (VERY IMPORTANT)
 * Subqueries
-* Window functions
-* Indexing
-* Views
+
