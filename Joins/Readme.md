@@ -321,8 +321,6 @@ After completing this practice, I can:
 
 * SELF JOIN
 * Subqueries
-* Window Functions
-* Views
-* Indexing
+
 
 
