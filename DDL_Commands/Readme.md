@@ -318,5 +318,3 @@ This practice helps to understand:
 
 * WHERE Clause
 * JOIN Operations
-* GROUP BY
-* HAVING
