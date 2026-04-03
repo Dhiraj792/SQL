@@ -8,9 +8,7 @@ The purpose of this practice is to understand important SQL concepts used in dat
 ## 1. DISTINCT Clause
 
 The `DISTINCT` clause is used to remove duplicate values from query results.
-
 Example:
-
 ```sql
 USE classicmodels;
 
