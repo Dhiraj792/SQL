@@ -23,13 +23,9 @@ GROUP BY
 HAVING Clause
 
 Aggregate Functions (SUM, AVG, COUNT, MIN, MAX)
-
 Joins (INNER JOIN, LEFT JOIN, RIGHT JOIN)
-
 Subqueries
-
 Table Creation
-
 Insert, Update, Delete Operations
 
 🗂 Repository Structure
