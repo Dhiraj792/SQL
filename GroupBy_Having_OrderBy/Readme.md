@@ -4,7 +4,6 @@ This file contains SQL queries demonstrating the use of **GROUP BY**, **aggregat
 
 These concepts are very important for **data analysis and interview preparation**.
 ---
-
 # Topics Covered
 
 ## 1. GROUP BY Clause
