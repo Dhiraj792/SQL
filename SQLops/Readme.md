@@ -4,7 +4,6 @@ The purpose of this repository is to practice and understand important SQL conce
 
 ## Topics Covered
 ### 1. Database and Table Operations
-
 * Creating a database
 * Using a database
 * Viewing table structure using `DESCRIBE`
