@@ -4,7 +4,6 @@ This file contains SQL queries demonstrating the use of **Subqueries** in MySQL.
 A subquery is a query **nested inside another query** and is used to perform complex data retrieval operations.
 
 ---
-
 # What is a Subquery?
 
 A **subquery** is a query inside another SQL query such as:
