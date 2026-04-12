@@ -4,7 +4,6 @@ This repository contains my SQL practice queries using the **mysqlsampledatabase
 The purpose of this practice is to understand important SQL concepts used in data querying and database management.
 ---
 # Topics Practiced
-
 ## 1. DISTINCT Clause
 
 The `DISTINCT` clause is used to remove duplicate values from query results.
