@@ -1,77 +1,212 @@
-# SQL
-📌 Overview
+# SQL Learning Journey 🚀 | MySQL Practice Repository
 
-This repository contains SQL queries, examples, and practice problems that help in understanding database concepts and improving SQL skills.
-It includes basic to intermediate SQL queries that are commonly used in data analysis, database management, and technical interviews.
+This repository contains my complete journey of learning **SQL (Structured Query Language)** using MySQL.
+It covers all fundamental to advanced concepts required for **technical interviews and real-world projects**.
 
-The main goal of this repository is to practice SQL and build a strong foundation in database querying.
+---
 
-📚 Topics Covered
+# 📌 About This Repository
 
-This repository includes queries related to:
+This repository is organized topic-wise, where each folder contains:
 
-Basic SQL Queries
+* SQL queries
+* Practical examples
+* Concept explanations
+* Separate README for each topic
 
-SELECT Statements
+---
 
-WHERE Clause
+# 📂 Topics Covered
 
-ORDER BY
+## 🔹 SQL Basics
 
-GROUP BY
+* SELECT statements
+* Filtering data
+* Basic queries
 
-HAVING Clause
+---
 
-Aggregate Functions (SUM, AVG, COUNT, MIN, MAX)
-Joins (INNER JOIN, LEFT JOIN, RIGHT JOIN)
-Subqueries
-Table Creation
-Insert, Update, Delete Operations
+## 🔹 DDL Commands
 
-🗂 Repository Structure
+* CREATE DATABASE / TABLE
+* ALTER TABLE
+* DROP / TRUNCATE
+
+---
+
+## 🔹 Constraints
+
+* NOT NULL
+* UNIQUE
+* PRIMARY KEY
+* FOREIGN KEY
+* CHECK
+* DEFAULT
+* AUTO_INCREMENT
+
+---
+
+## 🔹 Operators
+
+* AND, OR, NOT
+* IN
+* BETWEEN
+
+---
+
+## 🔹 ORDER BY & DISTINCT
+
+* Sorting data
+* Removing duplicates
+
+---
+
+## 🔹 Built-in Functions
+
+### String Functions
+
+* LOWER, UPPER
+* TRIM, CONCAT
+* INSTR, LENGTH
+
+### Numeric Functions
+
+* ABS, ROUND, TRUNCATE
+* MOD, SQRT
+
+### Date Functions
+
+* CURDATE, NOW
+* DATEDIFF, MONTH, YEAR
+
+---
+
+## 🔹 GROUP BY, HAVING, ORDER BY
+
+* Aggregation (COUNT, SUM, MIN, MAX)
+* Filtering grouped data
+
+---
+
+## 🔹 Joins
+
+* INNER JOIN
+* LEFT JOIN
+* RIGHT JOIN
+* CROSS JOIN
+* FULL JOIN (via UNION)
+
+---
+
+## 🔹 Subqueries
+
+* Single-row subqueries
+* Multi-row subqueries
+* Nested queries
+* Real-world use cases
+
+---
+
+## 🔹 Set Operators
+
+* UNION
+* UNION ALL
+* INTERSECT (via shell)
+* EXCEPT
+
+---
+
+## 🔹 Views & Indexes
+
+* Creating views
+* Virtual tables
+* Indexing for performance
+
+---
+
+## 🔹 Auto Increment & Limit
+
+* AUTO_INCREMENT usage
+* LIMIT for pagination
+
+---
+
+## 🔹 TCL (Transaction Control Language)
+
+* COMMIT
+* ROLLBACK
+* AUTOCOMMIT
+
+---
+
+# 📁 Folder Structure
+
+```bash
+SQL-Repository/
+│── SQLBasics/
+│── DDL_Commands/
+│── Constraints/
+│── OPERATORS/
+│── ORDER BY & DISTINCT CLAUSE/
+│── Built_In_Function/
+│── GroupBy_Having_OrderBy/
+│── Joins/
+│── Set_Operators/
+│── SubQueries/
+│── views and indexes/
+│── Auto_increment and Limit/
+│── Commit_and_Rollback/
 ```
-SQL-Repository
-│
-├── basic_queries.sql
-├── joins.sql
-├── aggregate_functions.sql
-├── subqueries.sql
-└── practice_problems.sql
-🛠 Technologies Used
-```
 
-SQL
+---
 
-MySQL / PostgreSQL / SQLite
+# 🛠️ Tools Used
 
-Database Management Concepts
+* MySQL
+* MySQL Workbench / Command Line
+* GitHub
 
-🎯 Purpose
+---
 
-This repository is created for:
+# 🎯 Learning Goals
 
-Learning SQL concepts
+* Master SQL for interviews
+* Understand database design
+* Perform data analysis using SQL
+* Build strong backend foundations
 
-Practicing database queries
+---
 
-Preparing for technical interviews
+# 📈 Learning Outcome
 
-Improving data analysis skills
+After completing this repository, I can:
 
-🚀 How to Use
+* Write complex SQL queries
+* Use joins and subqueries efficiently
+* Design relational databases
+* Optimize queries using indexes
+* Handle transactions safely
 
-Clone the repository
+---
 
-git clone https://github.com/Dhiraj792/SQL
+# 🚀 Next Steps
 
-Open the .sql files in any SQL environment like:
+* SQL Mini Project (Data Analysis)
+* SQL + FastAPI Integration
+* Build REST APIs with database
+* Real-world backend projects
 
-MySQL Workbench
+---
 
-PostgreSQL
+# ⭐ About Me
 
-SQLite
+I am currently learning:
 
-VS Code
+* SQL (Advanced Level)
+* Python
+* Machine Learning
+* FastAPI (Backend Development)
 
-Run the queries and analyze the output.
+---
+
+⭐ This repository is part of my journey to become a **Data Analyst / Software Developer / Backend Engineer**.
