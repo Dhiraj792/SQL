@@ -21,7 +21,6 @@ The `INNER JOIN` returns only the **matched records** from both tables.
 
 ```sql
 use d;
-
 create table t1(num int);
 create table t2(num int);
 
