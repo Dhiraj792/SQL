@@ -5,7 +5,6 @@ This file contains SQL queries demonstrating the use of **Transaction Control La
 TCL commands are used to **manage transactions** in a database.
 
 ---
-
 # What is a Transaction?
 
 A **transaction** is a sequence of SQL operations that are executed as a single unit.
