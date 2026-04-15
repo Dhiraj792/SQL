@@ -6,7 +6,6 @@ Joins are used to **retrieve data from multiple tables** based on a related colu
 # Topics Covered
 
 ## What is JOIN?
-
 A `JOIN` is used with a `SELECT` statement to combine rows from two or more tables.
 
 ---
