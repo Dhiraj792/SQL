@@ -7,5 +7,5 @@ from
    customers
 where 
    country='USA' 
-    and
+ and
     state='CA';
