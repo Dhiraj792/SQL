@@ -9,7 +9,6 @@ These concepts are very important for **data analysis and interview preparation*
 ## 1. GROUP BY Clause
 
 The `GROUP BY` clause is used to **group rows that have the same values** in specified columns.
-
 ### Syntax
 
 ```sql
