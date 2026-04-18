@@ -4,4 +4,5 @@ select
     country
 from
 	customers
-where country in ('USA','France');
+where country 
+	in ('USA','France');
