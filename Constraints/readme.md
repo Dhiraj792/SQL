@@ -17,7 +17,6 @@ They help:
 ---
 
 # Topics Covered
-
 ## 1. NOT NULL Constraint
 
 Ensures that a column **cannot store NULL values**.
