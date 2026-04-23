@@ -3,6 +3,7 @@
 This file contains SQL queries demonstrating the use of **JOIN operations** in SQL.
 Joins are used to **retrieve data from multiple tables** based on a related column.
 ---
+
 # Topics Covered
 
 ## What is JOIN?
