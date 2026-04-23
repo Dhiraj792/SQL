@@ -4,7 +4,6 @@ This file contains SQL queries demonstrating **Set Operations** in SQL.
 These operations are used to combine or compare results from multiple SELECT statements.
 
 ---
-
 # Topics Covered
 
 ## 1. UNION Operator
