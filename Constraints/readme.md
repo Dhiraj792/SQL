@@ -15,7 +15,6 @@ They help:
 * Ensure relationships between tables
 
 ---
-
 # Topics Covered
 ## 1. NOT NULL Constraint
 
