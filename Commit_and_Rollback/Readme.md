@@ -3,7 +3,6 @@
 This file contains SQL queries demonstrating the use of **Transaction Control Language (TCL)** commands in MySQL.
 
 TCL commands are used to **manage transactions** in a database.
-
 ---
 # What is a Transaction?
 
