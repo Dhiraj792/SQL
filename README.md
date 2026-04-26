@@ -23,7 +23,6 @@ This repository is organized topic-wise, where each folder contains:
 * SELECT statements
 * Filtering data
 * Basic queries
-
 ---
 
 ## 🔹 DDL Commands
