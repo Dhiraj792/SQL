@@ -27,7 +27,6 @@ from customers
 where state is not null;
 ```
 Explanation:
-
 * `DISTINCT` returns only **unique values**
 * Useful when a column contains **duplicate data**
 
