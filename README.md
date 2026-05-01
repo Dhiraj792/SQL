@@ -24,7 +24,6 @@ This repository is organized topic-wise, where each folder contains:
 * Filtering data
 * Basic queries
 ---
-
 ## 🔹 DDL Commands
 
 * CREATE DATABASE / TABLE
