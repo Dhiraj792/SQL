@@ -6,7 +6,6 @@ This file contains SQL queries demonstrating the use of:
 * `LIMIT` clause
 
 These concepts are important for **handling IDs and controlling query results**.
-
 ---
 
 # Topics Covered
