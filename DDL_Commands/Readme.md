@@ -15,7 +15,6 @@ Explanation:
 
 * `CREATE DATABASE` → Creates a new database.
 * `DROP DATABASE` → Permanently deletes the database and all its tables.
-
 ---
 
 # 2. Selecting a Database
