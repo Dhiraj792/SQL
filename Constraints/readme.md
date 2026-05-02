@@ -1,7 +1,6 @@
 # SQL Practice – Constraints (MySQL)
 
 This repository contains my SQL practice on **Constraints**, which are rules applied to table columns to ensure **data integrity and accuracy**.
-
 ---
 
 # What are Constraints?
