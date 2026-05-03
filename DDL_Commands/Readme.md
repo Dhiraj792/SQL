@@ -3,6 +3,7 @@
 This repository contains my SQL practice focused on **Data Definition Language (DDL)** and basic database operations using **MySQL**.
 The purpose of this practice is to understand how databases and tables are created, modified, and managed.
 ---
+
 # Topics Covered
 ## 1. Creating and Deleting a Database
 A database is a collection of related tables used to store structured data.
