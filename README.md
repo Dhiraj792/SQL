@@ -192,9 +192,7 @@ After completing this repository, I can:
 * SQL + FastAPI Integration
 * Build REST APIs with database
 * Real-world backend projects
-
 ---
-
 # ⭐ About Me
 
 I am currently learning:
