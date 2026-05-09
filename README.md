@@ -28,7 +28,6 @@ This repository is organized topic-wise, where each folder contains:
 * CREATE DATABASE / TABLE
 * ALTER TABLE
 * DROP / TRUNCATE
-
 ---
 
 ## 🔹 Constraints
