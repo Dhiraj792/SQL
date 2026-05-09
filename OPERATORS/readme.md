@@ -2,7 +2,6 @@
 
 This file contains SQL queries demonstrating the use of **logical operators** and filtering techniques in the **ClassicModels database**.
 These operators help retrieve specific data from tables based on conditions.
-
 ---
 # Topics Covered
 
