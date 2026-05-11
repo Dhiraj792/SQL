@@ -2,7 +2,6 @@
 
 This repository contains my complete journey of learning **SQL (Structured Query Language)** using MySQL.
 It covers all fundamental to advanced concepts required for **technical interviews and real-world projects**.
-
 ---
 # 📌 About This Repository
 
