@@ -5,7 +5,6 @@ These operations are used to combine or compare results from multiple SELECT sta
 
 ---
 # Topics Covered
-
 ## 1. UNION Operator
 
 The `UNION` operator combines results from multiple queries and **removes duplicate values**.
