@@ -2,7 +2,6 @@
 
 This file contains SQL queries demonstrating the use of **Date and Time functions** in MySQL using the **ClassicModels database**.
 These functions are useful for handling, analyzing, and manipulating date and time data.
-
 ---
 # Topics Covered
 
