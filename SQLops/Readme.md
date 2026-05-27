@@ -22,7 +22,6 @@ select * from employees;
 Retrieving only required columns instead of the whole table.
 
 Example:
-
 ```sql
 select emp_no, first_name from employees;
 ```
