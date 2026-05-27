@@ -10,7 +10,6 @@ Example:
 ```sql
 USE classicmodels;
 select lastName from employees order by lastName;
-
 select distinct lastName from employees order by lastName;
 ```
 Example from customers table:
