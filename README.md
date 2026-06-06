@@ -11,7 +11,6 @@ This repository is organized topic-wise, where each folder contains:
 * Practical examples
 * Concept explanations
 * Separate README for each topic
-
 ---
 
 # 📂 Topics Covered
