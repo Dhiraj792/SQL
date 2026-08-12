@@ -4,7 +4,6 @@ This file contains SQL queries demonstrating the use of **Date and Time function
 These functions are useful for handling, analyzing, and manipulating date and time data.
 ---
 # Topics Covered
-
 ## 1. CURDATE() Function
 
 Returns the current system date.
