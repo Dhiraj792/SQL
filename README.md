@@ -12,7 +12,6 @@ This repository is organized topic-wise, where each folder contains:
 * Concept explanations
 * Separate README for each topic
 ---
-
 # 📂 Topics Covered
 
 ## 🔹 SQL Basics
