@@ -17,7 +17,6 @@ from customers
 where (country='USA' or country='France')
 and creditLimit > 100000;
 ```
-
 Explanation:
 
 * Retrieves customers from **USA or France**
